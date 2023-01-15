@@ -1,0 +1,25 @@
+{
+  "name": "rwp_rastreamento",
+  "version": "1.0.0",
+  "description": "Sistema de Rastreamento de mercadorias e pedidos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rraphaelrrsr@bitbucket.org/rraphaelrrsr/rwp_rr_backend.git"
+  },
+  "author": "Raphael Souza Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/rraphaelrrsr/rwp_rr_backend/issues"
+  },
+  "homepage": "https://bitbucket.org/rraphaelrrsr/rwp_rr_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1"
+  }
+}
